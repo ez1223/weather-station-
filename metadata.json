@@ -1,0 +1,5 @@
+{
+  "name": "EnvMonitor Dashboard",
+  "description": "A high-performance environmental monitoring dashboard featuring real-time ThingSpeak integration, interactive historical charts, and an intelligent alert system.",
+  "requestFramePermissions": []
+}
